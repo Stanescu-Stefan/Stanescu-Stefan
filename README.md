@@ -5,7 +5,7 @@
 
                                                       Hi there 👋 
   
-  
+  My name is Stanescu Stefan and im a FullStack Webdeveloper/Software Engineer
   
   <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="750" height="250"/>
