@@ -5,13 +5,13 @@
 
                                                      
 <h1 align="center">Hi 👋, I'm Stanescu Stefan</h1>
-<h3 align="center">A passionate fullstack developer from Romania</h3>
+<h3 align="center">A passionate Linux Engineer/IT OPS from Romania</h3>
 
-- 👯 I’m looking to collaborate on **JS/TS/React projects**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stanescu-Stefan](https://github.com/Stanescu-Stefan)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Linux/IT**
 
 - 📫 How to reach me **stanescu.irinel.stefan@gmail.com**
 
