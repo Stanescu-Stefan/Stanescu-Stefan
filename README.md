@@ -5,7 +5,7 @@
 
                                                      
 <h1 align="center">Hi 👋, I'm Stanescu Stefan</h1>
-<h3 align="center">A passionate Linux Engineer/IT OPS from Romania</h3>
+<h3 align="center">A Linux Engineer/IT OPS passionate about SECURITY from Romania</h3>
 
 
 
