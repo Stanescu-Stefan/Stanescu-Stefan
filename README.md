@@ -5,7 +5,7 @@
 
                                                      
 <h1 align="center">Hi 👋, I'm Stanescu Stefan</h1>
-<h3 align="center">A Linux Engineer/IT OPS passionate about SECURITY from Romania</h3>
+<h3 align="center">A security focused Linux Engineer/IT OPS from Romania</h3>
 
 
 
@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a>Kali Linux, Bash, Python. Metasploit, Nmap</a> </p>
+<p align="left"> </a>Splunk, Wireshark, Kali Linux, Bash, Python. Metasploit, Nmap</a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stanescu-stefan&show_icons=true&locale=en&layout=compact" alt="stanescu-stefan" /></p>
 
